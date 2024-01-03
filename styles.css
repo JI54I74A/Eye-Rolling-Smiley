@@ -35,11 +35,11 @@ body {
 
   .face {
     margin-top: 40px;
-    width: 750px;
-    height: 750px;
+    width: 700px;
+    height: 700px;
     background: #f7d05a;
     border-radius: 50%;
-    margin-left: 276px;
+    margin-left: 290px;
   }
 .eye-text {
     text-align: center;
@@ -54,5 +54,5 @@ body {
     border-bottom-right-radius: 160px;
     border: 10px solid gray;
     margin-top: 75px;
-    margin-left: 198px;
+    margin-left: 182px;
 }
